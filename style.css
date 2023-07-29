@@ -99,6 +99,10 @@ ul.listado {
     border-radius: 100%;
 }
 
+strong{
+    font-size:1.7vw;
+}
+
 #contactar {
     display: flex;
     align-items: center;
