@@ -93,24 +93,24 @@ ul.listado {
 }
 
 .encabezado {
-    margin-top: 0;
-    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 0vw;
     font-size:2vw;
+    background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     border-radius: 100%;
 }
-
-strong{
+strong {
     font-size:1.7vw;
 }
+
 
 #contactar {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 25vw;
-    margin-right: 25vw;
-    padding-bottom: 1vw;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    padding-bottom: 10px;
     color:black
 }
 
@@ -139,16 +139,18 @@ strong{
     margin: 0 5px;
     margin-top: 0;
 }
-.skill{
+.skill {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin:0 1.5vw;
-    color:white;
-    padding-top: 1vw;
+    margin: 0 1.5vw; 
+    color: white;
+    padding-top: 1vw; 
+    font-size: 1.5vw;
 }
+
 ul.project li {
-    margin-bottom: 10vw;
-    margin-left:10vw;
-  }
-  
+    margin-bottom: 1vw; 
+    margin-left: 1vw; 
+    font-size: 1.5vw;
+}
