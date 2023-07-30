@@ -108,12 +108,11 @@ strong {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 25rem;
-    margin-right: 25rem;
+    margin-left: 25vw; 
+    margin-right: 25vw; 
     padding-bottom: 10px;
-    color:black
+    color: black;
 }
-
 .sociales {
     display: flex;
     justify-content: center;
